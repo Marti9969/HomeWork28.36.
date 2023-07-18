@@ -1,0 +1,20 @@
+.block-1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.block-2 {
+    font-family: serif;
+    text-align: justify;
+}
+
+.block-3 {
+    word-spacing: 30px;
+    color: rgb(55, 21, 119);
+}
+
+.block-4 {
+    letter-spacing: 5px;
+    border-bottom: 10px double #000;
+}
